@@ -1,4 +1,4 @@
-<!--suppress HtmlDeprecatedAttribute -->
+<!--suppresss HtmlDeprecatedAttribute -->
 <div align="center">
   <h1>
     Привет, я <a href="https://github.com/SmithyVL">Влад</a>!
